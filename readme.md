@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/estysdesu%2Fexplorecollections/master?filepath=collections.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/estysdesu%2Fexplorecollections/master?urlpath=lab/tree/collections.ipynb)
 # exploreCollections
 An exploration of Python's stdlib collections module. This was part of a presentation for the CincyPy group.
 
